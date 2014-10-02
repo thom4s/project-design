@@ -1,58 +1,69 @@
 # Project Design
 
 
+## General view
+
+![A Website Designed - Infography](http://awebsitedesigned.co/A-Website-Designed-Infographic.pdf)
 
 
 ## How to get clients
 
-> do 
+#### Tools
 
-> read
+#### do 
 
-> Ultimate guides
+#### read
+
+#### Ultimate guides
+
+
 
 ## The Interview
 
-> do 
+#### do 
 
-> read
+#### read
 
-> Ultimate guides
+#### Ultimate guides
+
 
 
 ## Research & Developpement
 
-> do 
+#### do 
 
-> read
+#### read
 
-> Ultimate guides
+#### Ultimate guides
+
 
 
 ## Specifications techniques et fonctionnelles
 
-> do 
+#### do 
 
-> read
+#### read
 
-> Ultimate guides
+#### Ultimate guides
+
 
 
 ## Design
 
-> do 
+#### do 
 
-> read
+#### read
 
-> Ultimate guides
+#### Ultimate guides
+
 
 
 ## Development
 
-> do 
+#### do 
 
-> read
+#### read
 
-> Ultimate guides
+#### Ultimate guides
 
 
